@@ -1,9 +1,8 @@
 //----------------------------------------------------------------------------------------------
-//Author: Antonio Contreras
+//Author: Antonio Contreras/Chris Sot
 //NCC CSCE 306 Software as OOP Spring 2024
-//Lab #4 - Loops and Conditionals
-//Description: This project identifies the proper declaration and implementation
-// of functions and use of loops.
+//LiveRace 2 0f 4 - MicroGame
+//Description: This project is for a game where you wager on whether it is true or false. Points are awarded/deducted based on guesses.
 //Documentation via chat.openai
 //----------------------------------------------------------------------------------------------
 
